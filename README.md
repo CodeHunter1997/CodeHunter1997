@@ -2,8 +2,8 @@
 - 🌐 I’m a Full Stack Web Developer
 - 🎨 UI/UX Designer
 - 💼 Freelancer
-- 💡 Problem Solver
-- 🌱 I’m currently making responsive websites as a Freelancer 
+- 💡 Problem Solver, Quick thinker!
+- 🌱 I’m currently making responsive websites. 
 - 💞️ I’m looking to collaborate on bigger projects
 - 📫 Feel free to connect via email at "sujoyg298@gmail.com." Let's collaborate and create something amazing! 😊
   
