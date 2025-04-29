@@ -1,9 +1,6 @@
 - 👋 Hi, My name is Sujay Ghosh (CodeHunter1997). Welcome to my profile! 
-- 🌐 I’m a Full Stack Web Developer
-- 🎨 UI/UX Designer
-- 💼 Freelancer
+- 🌐 I’m an Android Developer using Kotlin
 - 💡 Problem Solver, Quick thinker!
-- 🌱 I’m currently making responsive websites. 
 - 💞️ I’m looking to collaborate on bigger projects
 - 📫 Feel free to connect via email at "sujoyg298@gmail.com." Let's collaborate and create something amazing! 😊
   
