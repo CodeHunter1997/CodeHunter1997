@@ -10,10 +10,12 @@ I'm a passionate Android Developer who enjoys building high-quality mobile appli
 - Work with RecyclerView, custom adapters, and real-time updates
 
 ### 🛠️ Technologies & Tools
-- Kotlin, Java
+- Android Studio
+- Kotlin
+- XML
 - Firebase (Auth, DB)
 - Retrofit, Glide, Coroutines
-- Git, GitHub, Android Studio
+- Git, GitHub
 
 ### 📌 Projects
 Check out some of my open-source Android projects:
